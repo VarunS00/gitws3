@@ -1,2 +1,3 @@
 # gitws3
-exercises
+
+Varun Srinivasan
